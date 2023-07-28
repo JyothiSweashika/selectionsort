@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\bin\Debug\Selectionsort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\bin\Debug\Selectionsort.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\obj\Debug\Selectionsort.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\obj\Debug\Selectionsort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Selectionsort\Selectionsort\obj\Debug\Selectionsort.pdb
